@@ -1,4 +1,4 @@
-# FiveM Auth / API System for Script
+# FiveM Auth / API System for FiveM Scripts
 
 Join https://discord.gg/8Jq6xNNWks for the Script / Files
 
